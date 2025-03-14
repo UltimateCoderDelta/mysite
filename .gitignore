@@ -1,2 +1,2 @@
 #Git ignore settings file
-/mysite/settings.py/
+mysite/settings.py
